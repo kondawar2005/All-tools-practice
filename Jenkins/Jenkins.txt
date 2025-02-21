@@ -1,0 +1,2 @@
+Jenkins is the tool used for contenious integration and contenious deployment.
+it works as scheduler
