@@ -1,0 +1,10 @@
+git Stash - we can use this command to temporaraly save changes without commiting them. this command helps when we do checkout.
+git stash apply - it applies latest stash
+git stash list - show list of stash
+git stash clear -clear all the stashes
+git stash pop - this applies latest stash and remove this stash from list
+git stash apply stash@{1} - this applies stash 1
+                           stash@{0}- indicates latest stash
+git stash -m"message" - stash using message
+git stash -m"message" --path/to/file - stash particular file1.
+git stash drop stash@{2}                           
