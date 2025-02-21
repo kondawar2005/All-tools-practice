@@ -1,5 +1,5 @@
-Jenkins is the tool used for contenious integration and contenious deployment.
-it requires to install jdk on VM as it is java application.
-we can store cred in cred manager in Jenkins
-for multistage pipeline we need to write jenkin file in groovey script
+Jenkins is the tool used for continous integration and continuous deployment.
+it requires to install jdk on VM as it is a java application.
+we can store credentials in the credential manager in Jenkins.
+for a multistage pipeline, we need to write a Jenkins file in Groovy script.
 ..
